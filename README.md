@@ -232,14 +232,5 @@ It also highlights an important practical consideration in Generative AI develop
 
 ---
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
-- Kaggle: [@mani787060](https://www.kaggle.com/mani787060)
-
-If you find this repository useful for learning about Generative AI and LangChain, feel free to explore the code and share your feedback.
 
 ⭐ If you find this project helpful, consider giving the repository a star!
